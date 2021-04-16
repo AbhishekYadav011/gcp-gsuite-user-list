@@ -7,5 +7,5 @@ This repo is created to get the user list from G-suite using Workspace Admin SDK
 3. user_eamil_id
 
 
-# execute the code ,it will download userlist.txt file in your working directory.
+### execute the code ,it will download userlist.txt file in your working directory.
 > python getgcpuserlist.py
